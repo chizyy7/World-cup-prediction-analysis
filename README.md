@@ -18,6 +18,10 @@ Production-style full-stack FIFA World Cup prediction project with:
 - Dark/light theme toggle
 - Loading/fallback states and API-fallback fixtures
 
+## Preview
+
+![Prediction Dashboard Preview](https://github.com/user-attachments/assets/25f8632e-cd56-4c87-a09e-eea3c84b8272)
+
 ## Repository Layout
 
 - `/frontend` – Next.js 15 web app (all required routes)
