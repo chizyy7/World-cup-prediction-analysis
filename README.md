@@ -65,6 +65,15 @@ python scripts/train_model.py
 uvicorn app.main:app --reload --port 8000
 ```
 
+Standalone historical prediction PNG (no app required):
+
+```bash
+cd backend
+python scripts/world_cup_prediction_png.py
+```
+
+This saves a chart at `backend/app/artifacts/world_cup_prediction_2022.png`.
+
 ### 2) Frontend
 
 ```bash
