@@ -1,0 +1,9 @@
+[
+  {"year": 1998, "host": "France", "winner": "France", "runner_up": "Brazil"},
+  {"year": 2002, "host": "South Korea/Japan", "winner": "Brazil", "runner_up": "Germany"},
+  {"year": 2006, "host": "Germany", "winner": "Italy", "runner_up": "France"},
+  {"year": 2010, "host": "South Africa", "winner": "Spain", "runner_up": "Netherlands"},
+  {"year": 2014, "host": "Brazil", "winner": "Germany", "runner_up": "Argentina"},
+  {"year": 2018, "host": "Russia", "winner": "France", "runner_up": "Croatia"},
+  {"year": 2022, "host": "Qatar", "winner": "Argentina", "runner_up": "France"}
+]
